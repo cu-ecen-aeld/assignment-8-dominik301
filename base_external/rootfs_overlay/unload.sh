@@ -1,3 +1,0 @@
-scull_unload
-module_unload faulty
-rmmod hello

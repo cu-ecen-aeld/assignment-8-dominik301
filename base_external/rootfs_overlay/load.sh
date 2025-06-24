@@ -1,3 +1,0 @@
-scull_load
-module_load faulty
-modprobe hello
